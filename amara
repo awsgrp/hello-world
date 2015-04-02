@@ -1,0 +1,249 @@
+Script started on Wed 01 Apr 2015 09:32:20 PM EDT
+]0;root@centos9sol:~/hello-world[?1034h[root@centos9sol hello-world]# git status
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   amara
+#	new file:   amara.txt
+#	new file:   hello-world
+#	modified:   index.html
+#
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   amara
+#
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# git add amraa[K[K[Kara
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# git add amara[3Pstatus
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   amara
+#	new file:   amara.txt
+#	new file:   hello-world
+#	modified:   index.html
+#
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# git commit -m "created file ama ra"
+[master 7aba6d5] created file amara
+ 2 files changed, 2 insertions(+), 0 deletions(-)
+ create mode 100644 amara
+ create mode 100644 amara.txt
+ create mode 160000 hello-world
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# git commit -m "created file amarra"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+# On branch master
+# Your branch is ahead of 'origin/master' by 1 commit.
+#
+nothing to commit (working directory clean)
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# vi jay 
+[?1049h[?1h=[1;23r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[23;1H"jay" [New File][2;1H[1m[34m~                                                             [3;1H~                                                             [4;1H~                                                             [5;1H~                                                             [6;1H~                                                             [7;1H~                                                             [8;1H~                                                             [9;1H~                                                             [10;1H~                                                             [11;1H~                                                             [12;1H~                                                             [13;1H~                                                             [14;1H~                                                             [15;1H~                                                             [16;1H~                                                             [17;1H~                                                             [18;1H~                                                             [19;1H~                                                             [20;1H~                                                             [21;1H~                                                             [22;1H~                                                             [1;1H[?12l[?25h[?25l[m[23;1H[1m-- INSERT --[m[23;13H[K[1;1H[?12l[?25h[?25ls[?12l[?25h[?25l[1;1H[K[1;1H[?12l[?25h[?25lT[?12l[?25h[?25lTh[?12l[?25h[?25lhi[?12l[?25h[?25lis[?12l[?25h[?25l [?12l[?25h[?25l i[?12l[?25h[?25lis[?12l[?25h[?25l [?12l[?25h[?25l j[?12l[?25h[?25lja[?12l[?25h[?25lav[?12l[?25h[23;1H[K[1;11H[?25l[?12l[?25h[?25l[23;1H:[?12l[?25hwq![?25l"jay" [New] 1L, 12C written
+[?1l>[?12l[?25h[?1049l]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# 
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# 
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# 
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# vi jay git statuscommit -m "created file amarra"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+# On branch master
+# Your branch is ahead of 'origin/master' by 1 commit.
+#
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   amara
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	jay
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# git status[3Pvi jay git statuscommit -m "created file amarra"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd amara[K[K[K[K[Kjay
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# 
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# 
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# 
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# 
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# git add jay[1Pstatus
+# On branch master
+# Your branch is ahead of 'origin/master' by 1 commit.
+#
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   jay
+#
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   amara
+#
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# git status
+# On branch master
+# Your branch is ahead of 'origin/master' by 1 commit.
+#
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   jay
+#
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   amara
+#
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# git statusadd jay[1Pstatus
+# On branch master
+# Your branch is ahead of 'origin/master' by 1 commit.
+#
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   jay
+#
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   amara
+#
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# 
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# 
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# 
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# 
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# git statusadd jay[1Pstatus[3Pvi jay git statuscommit -m "created file amarra"[1P"[1P"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P"j"a" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cy""
+[master 091d926] created file jay
+ 1 files changed, 1 insertions(+), 0 deletions(-)
+ create mode 100644 jay
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# git commit -m "created file jay""[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+# On branch master
+# Your branch is ahead of 'origin/master' by 2 commits.
+#
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   amara
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# git statuscommit -m "created file jay""[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd jay[1Pstatus[3Pvi jay git statuscommit -m "created file amarra"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd amara[3Pstatus[4Preboot[2Pip aservice network restart[12Pifdown eth2service network restartip a[Krebootgit statusadd amara[3Pstatuscommit -m "created file amarra"
+# On branch master
+# Your branch is ahead of 'origin/master' by 2 commits.
+#
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   amara
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# git commit -m "created file amarra"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit -m "created file jay""[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd jay[1Pstatus[3Pvi jay git statuscommit -m "created file amarra"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd amara[3Pstatus[4Preboot[2Pip aservice network restart[12Pifdown eth2p a[Kfup eth0[2@down[C[C[C[C[Cp a[Kservice network restartip a[Ksu - wildflyvi /etc/group[3Psu wildflyjava -version-version[2Pversionyum install -y wildfly8java-1.8.0-oraclee java-1.8.0-oracle-plugin java-1.8.0-oracle-jdbc java-1.8.0-orracle-src java-1.8.0-oracle-devel java-1.8.0-oracle-javafx[A[A[18Pupdate -y
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crpm -iUvh http://dl.fedoraprojecct.org/pub/epel/6/x86_64/epel-release-6-8.noarch.rpm[A[18Pyum update -y
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cinstall -y java-1.8.0-oraclee java-1.8.0-oracle-plugin java-1.8.0-oracle-jdbc java-1.8.0-orracle-src java-1.8.0-oracle-devel java-1.8.0-oracle-javafx[A[A[8Pwildfly8
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pjava version--version[1Pversion[3Psu wildflyvi /etc/group[1Psu - wildfly[8Pip aservice network restartip a[Kfdown eth0[2Pup[C[C[C[C[C[5Pp afdown eth2service network restartip a[Krebootgit statusadd amara[3Pstatuscommit -m "created file amarra"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pvi jay git statusadd jay[1Pstatuscommit -m "created file jay""[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit -m "created file amarra"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# 
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# git commit -m "created file amarra"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit -m "created file amarra"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit -m "created file jay""[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd jay[1Pstatus[3Pvi jay git statuscommit -m "created file amarra"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd amara[3Pstatus[4Preboot[2Pip aservice network restartip a[Krebootgit status[K[K[K[K[K[K[K[K[K[Kgit git [K[K[K[Klog
+[?1h=commit 091d9265dd90cfae22d342b7d16ba97d298639b9[m
+Author: Amara Ukeje <aukeje@9-solutions.com>[m
+Date:   Wed Apr 1 21:36:20 2015 -0400[m
+[m
+    created file jay[m
+[m
+commit 7aba6d53cee2f98a2ddcdbd8d661d05afb071cf8[m
+Author: Amara Ukeje <aukeje@9-solutions.com>[m
+Date:   Wed Apr 1 21:34:56 2015 -0400[m
+[m
+    created file amara[m
+[m
+commit 5a8a9a1db9d8a5c14928ceae2120fd0dfd1055d4[m
+Author: Amara Ukeje <aukeje@9-solutions.com>[m
+Date:   Wed Apr 1 16:57:22 2015 -0400[m
+[m
+    Added hello world to index[m
+[m
+commit e44e3e61fb8179d14e7667e49425a099c600f3cb[m
+Author: Amara Ukeje <aukeje@9-solutions.com>[m
+Date:   Wed Apr 1 16:51:45 2015 -0400[m
+[m
+:[K[K    created index file[m
+:[K[K[m
+:[K[Kcommit cc7b115c65d69606a893646925f41ff8314197ac[m
+:[K[KAuthor: awsgrp <aukeje@9-solutions.com>[m
+:[K[KDate:   Wed Apr 1 16:32:28 2015 -0400[m
+:[K[K[m
+:[K[K    Initial commit[m
+:[K[K[K[7m(END) [27m[K[K[K[7m(END) [27m[K[K[K[7m(END) [27m[K[K[K[7m(END) [27m[K[K[K[7m(END) [27m[K[K[K[7m(END) [27m[K[K[K[7m(END) [27m[K[K[K[7m(END) [27m[K[K[K[7m(END) [27m[K[K[K[7m(END) [27m[K[K[K[7m(END) [27m[K[K[K[7m(END) [27m[K[K[K[7m(END) [27m[K[K[K[7m(END) [27m[K[K[K[7m(END) [27m[K[K[K[7m(END) [27m[K[K[?1l>
+[1]+  Stopped                 git log
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# git log --pretty=oneline
+[?1h=091d9265dd90cfae22d342b7d16ba97d298639b9 created file jay[m
+7aba6d53cee2f98a2ddcdbd8d661d05afb071cf8 created file amara[m
+5a8a9a1db9d8a5c14928ceae2120fd0dfd1055d4 Added hello world to [m
+e44e3e61fb8179d14e7667e49425a099c600f3cb created index file[m
+cc7b115c65d69606a893646925f41ff8314197ac Initial commit[m
+[7m(END) [27m[K[K[K[7m(END) [27m[K[K[K[7m(END) [27m[K[K[K[7m(END) [27m[K[K[?1l>
+[2]+  Stopped                 git log --pretty=oneline
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# git  push origin master
+Counting objects: 9, done.
+Compressing objects:  25% (1/4)   Compressing objects:  50% (2/4)   Compressing objects:  75% (3/4)   Compressing objects: 100% (4/4)   Compressing objects: 100% (4/4), done.
+Writing objects:  14% (1/7)   Writing objects:  28% (2/7)   Writing objects:  42% (3/7)   Writing objects:  57% (4/7)   Writing objects:  71% (5/7)   Writing objects:  85% (6/7)   Writing objects: 100% (7/7)   Writing objects: 100% (7/7), 633 bytes, done.
+Total 7 (delta 1), reused 0 (delta 0)
+To https://awsgrp@github.com/awsgrp/hello-world.git
+   5a8a9a1..091d926  master -> master
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# ls
+amara      [0m[01;34mhello[0m        index.html  README.md
+amara.txt  [01;34mhello-world[0m  jay
+[m]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# cat ma[K[Kamara.txt 
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# git pu;;[K[Kll
+remote: Counting objects: 3, done.[K
+remote: Compressing objects:  50% (1/2)   [Kremote: Compressing objects: 100% (2/2)   [Kremote: Compressing objects: 100% (2/2), done.[K
+remote: Total 3 (delta 1), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+From https://github.com/awsgrp/hello-world
+   091d926..eb9912b  master     -> origin/master
+Updating 091d926..eb9912b
+Fast-forward
+ amara.txt |    1 +
+ 1 files changed, 1 insertions(+), 0 deletions(-)
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# 
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# ls
+amara      [0m[01;34mhello[0m        index.html  README.md
+amara.txt  [01;34mhello-world[0m  jay
+[m]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# cat amara[K[K[K[K[K[K[K[K[Klsgit pullcat amara.txt 
+<p>Amara is goood </p>
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# git branch hello-bowie
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# git status
+# On branch master
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   amara
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# git checkout hello-bowie
+M	amara
+Switched to branch 'hello-bowie'
+]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# ls
+amara      [0m[01;34mhello[0m        index.html  README.md
+amara.txt  [01;34mhello-world[0m  jay
+[m]0;root@centos9sol:~/hello-world[root@centos9sol hello-world]# toc[Kuch en[K[Kbowie.html
+]0;root@cen
